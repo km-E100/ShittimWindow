@@ -20,7 +20,7 @@ Windows 文件是直接运行的安装程序，不需要解压，也不要把扩
 
 完整壁纸库在 [ShittimWindow-Wallpapers](https://github.com/km-E100/ShittimWindow-Wallpapers) 发布，共 **282 个记忆大厅**。打开记忆大厅设置，点击 **下载完整壁纸库**，应用会依次下载、校验和安装六个分包，不需要手动逐个导入。安装完成后可离线使用。
 
-下载量约 2.67 GB，安装期间请预留至少 6 GB 空间。需要能访问 GitHub 和 `raw.githubusercontent.com`。下载中断后重试，会复用已完成并通过 SHA-256 校验的分包；未完成的分包重新下载。下载或校验失败时继续保留原有壁纸。
+下载量约 2.67 GB，安装期间请预留至少 6 GB 空间。需要能访问 GitHub 和 `raw.githubusercontent.com`。Android 下载期间请保持应用打开。下载中断后重试，会复用已完成并通过 SHA-256 校验的分包；未完成的分包重新下载。下载或校验失败时继续保留原有壁纸。
 
 ## 首次使用
 
